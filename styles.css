@@ -682,12 +682,12 @@ flex-direction: column;
 
 					@media (min-width:1000px){
 						footer{
-											width: 30%;
+											width: %;
 										}
 					}
 
 					@media (min-width:1150px){
 						footer{
-											width: 25%;
+											width: 22%;
 										}
 					}
