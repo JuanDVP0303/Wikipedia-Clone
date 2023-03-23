@@ -594,6 +594,7 @@
 										.main-container-section-third{
 											flex-direction: row-reverse;
 											width: 60%;
+											margin-left:80px;
 											order: 3;
 										}
 
